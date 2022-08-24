@@ -1,0 +1,8 @@
+.usersContainer {
+  margin-top: 0px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.whos {
+  margin-left: 500px;
+}

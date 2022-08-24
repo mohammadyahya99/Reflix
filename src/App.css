@@ -1,0 +1,59 @@
+#main-links > a {
+  margin: 10px;
+  color: #34495e;
+}
+
+body {
+  background-color: #141414;
+}
+
+* {
+  text-decoration: none;
+  font-family: "Cinzel Decorative";
+}
+
+a {
+  margin: 40px;
+
+  font-size: 20px;
+  cursor: pointer;
+  color: aliceblue;
+}
+
+.profilePic {
+  cursor: pointer;
+  width: 300px;
+  height: 200px;
+}
+.userContainer {
+  margin: 20px;
+  justify-content: center;
+  text-align: center;
+}
+
+.usersContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.movieImg {
+  width: 200px;
+  height: 200px;
+}
+span {
+  margin-left: 70%;
+  color: #e50914;
+  font-size: xx-large;
+}
+
+.moviesContainer {
+  display: flex;
+  margin-top: 100px;
+}
+
+.movie {
+  margin: 20px;
+  justify-content: center;
+  text-align: center;
+}

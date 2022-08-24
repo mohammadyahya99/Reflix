@@ -1,0 +1,22 @@
+.search {
+  width: 500px;
+  margin-left: 400px;
+}
+
+h1 {
+  color: aliceblue;
+}
+.rentedMovies {
+  color: aliceblue;
+}
+.rentedMovies {
+  margin-top: 0px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.serchDiv {
+  color: aliceblue;
+  margin-left: 300px;
+  margin-bottom: 0px;
+  font-size: large;
+}
